@@ -15,6 +15,7 @@
     <h1>Fecha de nacimiento:</h1>
     <input type="date" required>
     <input type="submit">
+    <img src="Imágenes/La roca.png">
   </form>
 </body>
 </html>
