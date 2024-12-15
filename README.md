@@ -5,7 +5,7 @@
 </head>
 <body>
  <h1>Esta es mi primera página web</h1>
- <p>Esta el la primera página web que estoy creando y que estaré modificando constantemente.</p>
+ <p>Esta es la primera página web que estoy creando y que estaré modificando constantemente.</p>
  <h2>Si quieren más información, ingrese su correo, contraseña y fecha de nacimiento:</h2>
   <form>
     <h1>Correo:</h1>
