@@ -7,7 +7,7 @@
 <body style="background-color: yellow;">
  <h1 style="font-family:'Courier New', Courier, monospace">Esta es mi primera página web</h1>
  <p>Esta el la primera página web que estoy creando y que estaré modificando constantemente.</p>
- <h2 style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Si quieren más información, ingrese su correo, contraseña y fecha de nacimiento:</h2>
+ <h2 style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Si quieren más información, <i><ins>ingrese</ins></i> su correo, contraseña y fecha de nacimiento:</h2>
   <form>
     <h1 style="font-family: 'Courier New', Courier, monospace;">Correo:</h1>
     <input type="email" required placeholder="Escribe tu correo aquí" style="font-family: 'Courier New', Courier, monospace;">
