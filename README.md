@@ -17,9 +17,7 @@
     <hr>
     <h1 style="font-family: 'Courier New', Courier, monospace;">Fecha de nacimiento:</h1>
     <input type="date" required style="font-family: 'Courier New', Courier, monospace;">
-  </br>
   <hr>
-  </br>
   <input type="submit" style="font-family: 'Courier New', Courier, monospace;">
   </form>
 </body>
