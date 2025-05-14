@@ -20,5 +20,6 @@
   <hr>
   <input type="submit" style="font-family: 'Courier New', Courier, monospace;">
   </form>
+  <p>"Un enlace random xd:https://steamecommunmity.com/10538905296"</p>
 </body>
 </html>
